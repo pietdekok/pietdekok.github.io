@@ -1,3 +1,4 @@
+# remote_theme: pages-themes/cayman@v0.2.0
 # Home Page
 ### This website is created for the ‘Computational Design Studio’ project of the minor ‘Spatial Computing for Architectural Design’. 
 ### Since the 1950s Rotterdam has been developing into an innovative modern city with new buildings being designed every year. At the Schiestraat, next to Rotterdam Central Station, an old parking terrain and square seem to be old-fashioned related to the more technologically advanced building surrounding the place. This gave us the opportunity to use the area as a base to create a new innovative building design, based on algorithmic generation, analyses, design requirements from the municipality and evaluation of building performances.
